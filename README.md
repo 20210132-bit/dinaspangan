@@ -2,6 +2,7 @@
 
 Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar. Dilengkapi beberapa fitur, antara lain :
 
+- Klasifikasi Otomatis Surat Masuk dan Keluar
 - Cetak agenda surat masuk dan keluar berdasarkan tanggal tertentu
 - Upload lampiran file surat masuk/keluar, file dokumen (PDF)
 - Fitur galeri file lampiran yang diupload
