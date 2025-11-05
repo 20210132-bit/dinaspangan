@@ -1,0 +1,117 @@
+[03-Jun-2025 13:30:40 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[03-Jun-2025 13:30:40 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[03-Jun-2025 13:30:40 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[03-Jun-2025 13:30:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class PhpOffice\PhpWord\Element\TextRun could not be converted to string in /home/arsc3651/public_html/tambah_surat_masuk.php:68
+Stack trace:
+#0 /home/arsc3651/public_html/tambah_surat_masuk.php(140): extract_text_from_file()
+#1 /home/arsc3651/public_html/transaksi_surat_masuk.php(20): include('/home/arsc3651/...')
+#2 /home/arsc3651/public_html/admin.php(48): include('/home/arsc3651/...')
+#3 {main}
+  thrown in /home/arsc3651/public_html/tambah_surat_masuk.php on line 68
+[03-Jun-2025 13:32:47 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[03-Jun-2025 13:32:47 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[03-Jun-2025 13:32:47 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[03-Jun-2025 14:10:43 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:13:32 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:14:06 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:14:29 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:14:55 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:15:15 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:15:44 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[13-Jun-2025 15:16:08 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[14-Jun-2025 14:28:23 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[14-Jun-2025 14:28:41 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[15-Jun-2025 23:38:09 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jun-2025 13:54:55 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 13:54:55 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 13:54:55 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 14:28:06 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[16-Jun-2025 14:28:06 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[16-Jun-2025 15:12:30 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[16-Jun-2025 15:12:30 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[16-Jun-2025 15:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 15:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 15:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 15:14:56 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 15:14:56 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 15:14:56 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 15:27:26 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 15:27:26 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 15:27:26 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 15:28:48 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 15:28:48 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 15:28:48 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 15:30:06 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 15:30:06 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 15:30:06 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 23:02:35 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[16-Jun-2025 23:02:35 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[16-Jun-2025 23:02:35 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[16-Jun-2025 23:40:38 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jun-2025 23:41:59 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[17-Jun-2025 00:48:33 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[17-Jun-2025 00:48:33 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[17-Jun-2025 12:41:01 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[17-Jun-2025 12:41:01 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[17-Jun-2025 12:41:01 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[17-Jun-2025 14:38:48 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[17-Jun-2025 14:39:10 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[17-Jun-2025 14:39:56 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:33:15 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:36:00 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:38:00 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:38:10 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:40:42 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:45:24 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:45:54 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:47:13 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 08:49:11 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:13:38 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:13:56 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:15:04 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:15:12 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:16:24 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:16:38 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 09:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[18-Jun-2025 09:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[18-Jun-2025 09:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[18-Jun-2025 09:29:58 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[18-Jun-2025 09:29:58 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[18-Jun-2025 09:35:08 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jun-2025 12:29:34 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[18-Jun-2025 12:29:34 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[18-Jun-2025 12:52:42 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[18-Jun-2025 12:52:42 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[18-Jun-2025 12:54:44 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[18-Jun-2025 12:54:44 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[18-Jun-2025 12:54:44 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[24-Jun-2025 22:20:37 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 08:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:02 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:03 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:08 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:12 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:13 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:15 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:25 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[16-Jul-2025 09:00:38 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[18-Jul-2025 15:23:37 Asia/Jakarta] PHP Warning:  Undefined variable $id_instansi in /home/arsc3651/public_html/pengaturan.php on line 238
+[17-Aug-2025 11:02:01 Asia/Jakarta] PHP Warning:  Undefined array key "query" in /home/arsc3651/public_html/kode.php on line 15
+[07-Sep-2025 17:18:47 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/arsc3651/public_html/index.php on line 214
+[09-Sep-2025 12:19:30 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[09-Sep-2025 12:19:30 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[29-Oct-2025 09:37:25 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[29-Oct-2025 09:37:25 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[29-Oct-2025 09:37:25 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[29-Oct-2025 09:38:33 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[29-Oct-2025 09:38:33 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[29-Oct-2025 09:38:42 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[29-Oct-2025 09:38:42 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
+[29-Oct-2025 09:41:33 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[29-Oct-2025 09:41:33 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[29-Oct-2025 09:41:33 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[29-Oct-2025 09:43:33 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 103
+[29-Oct-2025 09:43:33 Asia/Jakarta] PHP Warning:  Undefined array key "indeks" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 105
+[29-Oct-2025 09:43:33 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_masuk.php on line 107
+[29-Oct-2025 09:45:27 Asia/Jakarta] PHP Warning:  Undefined array key "kode" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 102
+[29-Oct-2025 09:45:27 Asia/Jakarta] PHP Warning:  Undefined array key "keterangan" in /home/arsc3651/public_html/tambah_surat_keluar.php on line 105
